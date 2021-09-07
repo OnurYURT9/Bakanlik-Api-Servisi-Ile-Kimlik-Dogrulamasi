@@ -1,0 +1,14 @@
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\bin\Debug\KimlikDogrulama.exe.config
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\bin\Debug\KimlikDogrulama.exe
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\bin\Debug\KimlikDogrulama.pdb
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\bin\Debug\MetroFramework.dll
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.csprojAssemblyReference.cache
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.Form1.resources
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.Properties.Resources.resources
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.csproj.GenerateResource.cache
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.csproj.CoreCompileInputs.cache
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.csproj.CopyComplete
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.exe
+C:\Users\Ali Güral Lojman\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.pdb
